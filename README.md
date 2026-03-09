@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### Sobre mim
+Ola, meu nome e Luis Henrique Campaner, tenho 19 anos, sou desenvolvedor Mobile e Backend. Tenho um sonho de criar um app e publica-lo na PlayStore.
+
 <!--
 **OutraContaDoLuis/OutraContaDoLuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
