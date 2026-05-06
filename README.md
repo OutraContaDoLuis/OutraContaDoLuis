@@ -5,7 +5,8 @@ Meu nome é Luis Henrique Campaner, tenho 20 anos. Atualmente sou um desenvolved
 - Kotlin
 - Python
 - React.js
-- Linux 
+- Linux
+- Kali Linux
 
 <!--
 **OutraContaDoLuis/OutraContaDoLuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
