@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 ## Sobre mim
-#### Desenvolvedor de app mobile (Kotlin)
+Desenvolvedor Mobile (Kotlin)
+Estudante de Pentest
 
 <!--
 **OutraContaDoLuis/OutraContaDoLuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
