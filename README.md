@@ -4,7 +4,6 @@ Meu nome é Luis Henrique Campaner, tenho 20 anos. Atualmente sou um desenvolved
 ## Habilidades (ou competências)
 - Kotlin
 - Python
-- React.js
 - Linux
 - Kali Linux
 
