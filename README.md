@@ -1,5 +1,6 @@
 ## Sobre mim
-Desenvolvedor mobile e hacker ético.
+- 20y
+- Desenvolvedor mobile e hacker ético
 
 ## Habilidades (ou competências)
 - Kotlin
