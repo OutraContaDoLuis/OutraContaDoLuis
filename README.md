@@ -1,11 +1,10 @@
 ## Sobre mim
-Meu nome é Luis Henrique Campaner, tenho 20 anos. Atualmente sou um desenvolvedor de aplicativos para celular (Kotlin) e também estou estudando cybersegurança (Pentest e Kali Linux).
+Desenvolvedor mobile e hacker ético.
 
 ## Habilidades (ou competências)
 - Kotlin
 - Python
-- Linux
-- Kali Linux
+- Bash Script
 
 <!--
 **OutraContaDoLuis/OutraContaDoLuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
